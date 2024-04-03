@@ -1,0 +1,6 @@
+name: xlonx-helpop
+version: '${project.version}'
+main: me.xlonx.xlonxhelpop.Main
+api-version: '1.20'
+commands:
+  helpop:
